@@ -1,7 +1,7 @@
 # finsire_task
 
 A new Flutter project.
-This site was built using [GitHub Pages](https://pages.github.com/).
+
 
 Output:
 <p align="center">
